@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+  "task": "Harvest tomatoes",
+  "complete": false
+}, {
+  "id": 2,
+  "task": "Weeding",
+  "complete": false
+}, {
+  "id": 3,
+  "task": "Vacuum floor",
+  "complete": false
+}, {
+  "id": 4,
+  "task": "Rake leaves",
+  "complete": false
+}, {
+  "id": 5,
+  "task": "Prepare soil beds",
+  "complete": false
+}, {
+  "id": 6,
+  "task": "Water flowers",
+  "complete": false
+}]
